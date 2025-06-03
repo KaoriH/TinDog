@@ -1,25 +1,28 @@
 # TinDog
 
-## 概要
-TinDogは架空の犬用サービスのウェブサイトを模写したプロジェクトです。  
-HTML、CSSを使い、Bootstrap4を使用してレスポンシブデザインを意識して作成しました。
+## Overview
+TinDog is a mock landing page for a fictional dog-related service, built with HTML and CSS.  
+The project was created to practice responsive design using Bootstrap.
 
-## 使用技術
-- HTML5
-- CSS3 (Flexbox)
-- JavaScript
+> 🧠 This project was one of my earliest attempts at building a responsive website.  
+> While the design is simple and a bit dated, it helped me learn fundamental layout and styling techniques.
 
-## ローカルでの閲覧方法
-このプロジェクトは静的サイトなので、以下の手順でローカルでも閲覧できます。
+## Technologies Used
+- HTML5  
+- CSS3  
+- Bootstrap
 
-1. このリポジトリをクローンまたはZIPでダウンロードします。
-2. フォルダ内の `index.html` をブラウザで開くだけで表示されます。3. 
+## How to View Locally
+This is a static site and can be viewed locally with the following steps:
 
-## 学んだこと・工夫点
-- レスポンシブデザインの基本的な実装方法  
-- ボタンのホバー効果やアニメーションの実装  
-- CSSのFlexboxによるレイアウト調整
+1. Clone or download the repository as a ZIP file.
+2. Open the `index.html` file in your web browser.
 
-## ポートフォリオサイト
-プロジェクトのデモは以下でもご覧いただけます：  
-[https://focused-tereshkova-d6da90.netlify.app/](https://focused-tereshkova-d6da90.netlify.app/)
+## Demo
+You can also view this project as part of my portfolio site here:  
+🔗 [https://focused-tereshkova-d6da90.netlify.app/](https://focused-tereshkova-d6da90.netlify.app/)
+
+## What I Learned
+- Building responsive layouts using Bootstrap’s grid system  
+- Structuring HTML into clear, reusable sections  
+- Styling elements for better readability and accessibility
