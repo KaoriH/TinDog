@@ -12,7 +12,7 @@ The project was created to practice responsive design using Bootstrap.
 - CSS3  
 - Bootstrap
 
-## How to View Locally
+## How to Run or View
 This is a static site and can be viewed locally with the following steps:
 
 1. Clone or download the repository as a ZIP file.
